@@ -4,7 +4,7 @@ import pyautogui
 import keyboard
 
 # Frames 
-fps = 60
+fps = 10
 #resolution = pyautogui.size()
 resolution = (1920, 1080)
 fourcc = cv2.VideoWriter_fourcc(*'mp4v')
